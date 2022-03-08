@@ -1,0 +1,16 @@
+﻿  Bitmap.cpp
+  Camera.cpp
+  DirLight.cpp
+  Framework.cpp
+  Matrix.cpp
+  MD2Loader.cpp
+  Model.cpp
+C:\Users\100519062\OneDrive - University of Derby\Year 2\BaseFramework\Model.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\100519062\OneDrive - University of Derby\Year 2\BaseFramework\Model.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\100519062\OneDrive - University of Derby\Year 2\BaseFramework\Model.cpp(138,20): warning C4018: '<': signed/unsigned mismatch
+  Polygon3D.cpp
+  Rasteriser.cpp
+  Vector3D.cpp
+  Vertex.cpp
+  Generating Code...
+  BaseFramework.vcxproj -> C:\Users\100519062\OneDrive - University of Derby\Year 2\BaseFramework\Debug\BaseFramework.exe
